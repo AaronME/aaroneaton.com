@@ -35,6 +35,8 @@ In this post I will show you how we did it.
 
 ## Let's get Started!
 
+You can find a complete example of this tutorial in the [A Tour of Crossplane](https://github.com/AaronME/ATourOfCrossplane/tree/main/crossplane-package-testing-with-kuttl) repo.
+
 ### Prerequisites
 
 We're going to assume you have the following installed:
