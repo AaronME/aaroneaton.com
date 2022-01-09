@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:AaronME/AaronME.github.io.git
+[submodule "tour"]
+	path = tour
+	url = git@github.com:AaronME/ATourOfCrossplane.git
