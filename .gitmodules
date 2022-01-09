@@ -4,3 +4,7 @@
 [submodule "tour"]
 	path = tour
 	url = git@github.com:AaronME/ATourOfCrossplane.git
+[submodule "themes/hugo-winston-theme"]
+	path = themes/hugo-winston-theme
+	url = git@github.com:AaronME/hugo-winston-theme.git
+	branch = aaroneaton-com
