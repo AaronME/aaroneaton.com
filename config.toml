@@ -15,7 +15,7 @@ paginate = 3
     min = "0.55.0"
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "G-B4RD5175XG"
   twitter_handle = "@aaron_eaton"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
