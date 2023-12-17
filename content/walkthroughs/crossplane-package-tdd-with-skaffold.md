@@ -3,6 +3,8 @@ title: TDD For Crossplane Packages with Skaffold
 date: 2022-01-14
 description: 'Create a Test-Driven Development Environment for Crossplane Packages with https://skaffold.dev'
 image: images/crossplane/crossplane-packages-tdd-with-skaffold/tdd-with-skaffold.png
+aliases:
+- /crossplane/crossplane-package-tdd-with-skaffold/
 ---
 
 ## Crossplane Package Development

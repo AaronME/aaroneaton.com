@@ -3,6 +3,8 @@ title: Teaching Crossplane to Play Poker
 date: 2022-03-10
 description: 'Learn the Crossplane Resource Model by Teaching Crossplane to Play Poker'
 image: images/crossplane/crossplane-configuration-development-with-poker/poker-header.png
+aliases:
+- /crossplane/crossplane-configuration-development-with-poker/
 ---
 
 ## Let's Teach Crossplane to Play Poker

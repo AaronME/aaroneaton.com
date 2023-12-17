@@ -3,6 +3,8 @@ title: Conformance Testing Crossplane Configuration Packages with Sonobuoy
 date: 2022-01-28
 description: 'Conformance Testing Crossplane Configuration Packages with https://sonobuoy.io'
 image: images/crossplane/crossplane-package-testing-with-sonobuoy/sonobuoy_and_crossplane.png?123
+aliases:
+- /crossplane/crossplane-package-testing-with-sonobuoy/
 ---
 
 ## Conformance Tests for Crossplane Configuration Packages

@@ -3,6 +3,8 @@ title: Testing Crossplane Packages with Kuttl
 date: 2022-01-07
 description: 'Test and validate crossplane package with https://kuttl.dev'
 image: images/crossplane/crossplane-package-testing-with-kuttl/test_loop_standard.png
+aliases:
+- /crossplane/crossplane-package-testing-with-kuttl/
 ---
 
 ## Crossplane Package Test Loop
